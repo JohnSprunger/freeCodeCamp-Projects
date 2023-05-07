@@ -1,4 +1,5 @@
-[## Arithmetic Formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+# Arithmetic Formatter
+[## freeCodeCamp Project Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
 
 You will be working on this project with our Replit starter code.
